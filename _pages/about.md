@@ -1,7 +1,7 @@
 ---
 layout: about
 title: about
-permalink: 
+permalink: ./
 subtitle: <a href='#'>Affiliations</a>. Reality & Robotics Lab
 
 profile:
