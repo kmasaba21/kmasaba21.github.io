@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 4
 cv_pdf: resume.pdf
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+description: Below is the highlights of my career impact in academia and industry. You can download the PDF version from the top right corner of this page.
 toc:
   sidebar: left
 ---
