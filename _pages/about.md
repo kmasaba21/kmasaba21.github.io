@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Reality & Robotics Lab
+subtitle: <a href='https://cs.dartmouth.edu'>Dartmouth College</a>. Reality & Robotics Lab
 
 profile:
   align: right
