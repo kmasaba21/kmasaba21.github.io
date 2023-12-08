@@ -1,12 +1,20 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - kmasaba21
+  - quattrinili
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - dartmouthrobotics/adaptive_deployment_analysis
+  - dartmouthrobotics/adaptive-dct-analysis
+  - dartmouthrobotics/cross_modality_sampling
+  - dartmouthrobotics/adaptive_dct
+  - dartmouthrobotics/gvgexploration
+  - dartmouthrobotics/epscor_algalbloom_analysis
+  - dartmouthrobotics/catabot_sensor_simulator
+  - dartmouthrobotics/adaptive-deployment
+  - dartmouthrobotics/roscbt-generator
+
+bitbucket_repos:
+  -tesserae-nd/tesserae_dashboard
+  -tesserae-nd/phoneagent-ios
+  -tesserae-nd/phoneagent-android
+  -tesserae-nd/phoneagent-server

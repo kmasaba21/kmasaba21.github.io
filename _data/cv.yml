@@ -2,96 +2,85 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Kizito Masaba
     - name: Date of Birth
-      value: 14th March 1879
+      value: 01st November 1990
     - name: Languages
-      value: English, German
+      value: English
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Dartmouth College, Hanover, NH USA
+      year: 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Computer Science (Robotics)
+        - Multirobot Active Learning for Environment Monitoring
+        - title: Scalable methods for Multirobot Active Learning
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - My PhD Thesis explores low cost approaches for automating information gathering for various robotic applications, such as environment monitoring, Search and Research operations,etc.
+    - title: MSc.
+      institution: Carnegie Mellon University, Pittsburgh, PA USA
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
+        - MSc. Electrical and Computer Engineering
+        - Studied Renewable Energy generation methods, Embedded Systems, Machine Learning and Artifical Intelligence.
+    - title: Bsc.
+      institution: Makerere University, Kampala, Uganda
+      year: 2013
+      description:
+        - BSc. Computer Engineering
+        - Studied Fundametals of Computer and Software Engineering - Programming, Calcus, Embedded Systems. Signal Processing, etc.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Software Engineer
+      institution: Pivot Acces, Kigali Rwanda
+      year: 2017 - 2017
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Enhanced the existing prepaid electric meter token generation system in collaboration with the engineering team. This update incorporated cutting-edge token generation technology and adhered to the latest industry standards. As a result,
+          our company achieved compliance with token generation standards and significantly reduced token generation latency.
+        - Pivot Access specializes in prepaid utility bill payments across Rwanda with software systems for purchasing tokens for
+          prepaid electric meters.
+
+    - title: Mobile Applications Developer
+      institution: True African
+      year: 2013-2015
       description:
-        - Description 1.
-        - Description 2.
+        - Designed and implemented Uganda's first-ever mobile banking application for Standard Chartered Bank together with the IT team. This initiative successfully facilitated the seamless transition of the bank's USSD customers to mobile
+          applications, underscoring my contributions to enhancing the customer experience.
+        - True African is a prominent value added service provider of many corporations in East Africa.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Memberships
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: National Society of Black Engineers (NSBE)
+    - title: Institute of Electrical and Electronic Engineers (IEEE) Student Member
+    - title: Afro-heritage Graduate Student Network (AGSN) at Dartmouth College
+
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2016
+      items:
+        - Jeremiah Mpagazehe Rising Researcher Award
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+    - title: Environment Monitoring
+    - title: Path Planning
+    - title: Localization and Mapping
+    - title: Machine Learning and Statistics
+    - title: Artificial Intelligence
+    - title: Operations Research
+
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Soccer 1, Board games 2, etc.
