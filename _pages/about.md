@@ -10,8 +10,6 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Amazon Robotics</p>
-    <p>BOS 12</p>
-    <p>Amazon.com Inc.</p>
     <p>North Reading, MA 01864</p>
 
 news: false  # includes a list of news items
