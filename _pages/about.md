@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://cs.dartmouth.edu'>Dartmouth College</a>. Reality & Robotics Lab
+subtitle: <a href='https://www.amazon.jobs/en/teams/amazon-robotics'>Amazon.com Inc</a>. Amazon Robotics    
 
 profile:
   align: right
