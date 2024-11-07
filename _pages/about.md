@@ -22,4 +22,4 @@ I am an Applied Scientist at Amazon Robotics, specializing in multi-agent path o
 
 Overall, my research interests include multi-agent path finding and multi-robot environment exploration, a field that has applications in environmental monitoring, autonomous driving, precision agriculture, warehouse automation, object tracking, robot manufacturing, and more. 
 
-Thank you for visiting my page!
+For details about some of my projects, please visit my <a href="https://kmasaba21.github.io/cv/">CV</a> page. Thank you for visiting my page!
