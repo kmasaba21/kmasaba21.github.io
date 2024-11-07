@@ -36,6 +36,12 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Applied Scientist
+    - institution: Amazon Robotics, North Reading, MA
+    - year: 2024 -
+    - description:
+    - Designing algorithms for multi-agent path finding optimization in warehouse automation scenarios.
+
     - title: Software Engineer
       institution: Pivot Acces, Kigali Rwanda
       year: 2017 - 2017

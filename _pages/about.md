@@ -9,10 +9,10 @@ profile:
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Reality & Robotics Lab</p>
-    <p>ECSC Room 116</p>
-    <p>Dartmouth College</p>
-    <p>Hanover, NH 03755</p>
+    <p>Amazon Robotics</p>
+    <p>BOS 12</p>
+    <p>Amazon.com Inc.</p>
+    <p>North Reading, MA 01864</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
