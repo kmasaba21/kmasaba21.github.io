@@ -17,7 +17,7 @@
       description:
         - Computer Science (Robotics)
         - Multirobot Active Learning for Environment Monitoring
-        - title: Scalable methods for Multirobot Active Learning
+        - title: Scalable methods for Resource-constrained Adaptive Sampling
           contents:
             - My PhD Thesis explores low cost approaches for automating information gathering for various robotic applications, such as environment monitoring, Search and Research operations,etc.
     - title: MSc.
@@ -36,7 +36,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Applied Scientist
+    - title: Applied Scientist Co-op
     - institution: Amazon Robotics, North Reading, MA
     - year: 2024 -
     - description:
