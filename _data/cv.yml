@@ -41,6 +41,9 @@
       year: 2024 -
       description:
         - Designing algorithms for multi-agent path finding optimization in warehouse automation scenarios.
+        - Designed anomaly detection services for identifying failures and irregularities in robot path execution across autonomous warehouse systems.
+        - Developed scalable reachability oracles, enabling efficient connectivity queries across large robotic maps.
+        - Designed and Implemented a heuristic correction approach for optimizing path search.
 
     - title: Software Engineer
       institution: Pivot Access, Kigali Rwanda
